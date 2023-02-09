@@ -1,2 +1,3 @@
 # School data file detection magic
 0 string SCHOOL School data file
+file -m school.mgc School 
